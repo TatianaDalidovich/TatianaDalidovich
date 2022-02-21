@@ -1,16 +1,23 @@
-### Hi there 👋
+# Далидович Татьяна #
 
-<!--
-**TatianaDalidovich/TatianaDalidovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## junior android developer ##
 
-Here are some ideas to get you started:
+Рассматриваю смену профессии в сторону андроид-разработчика. Изучаю программирование с 2020 года. Активно интересуюсь мобильной разработкой. Закончила онлайн-курсы по kotlin и android и ищу возможность применить знания на практике. Знаю стадии и роли процесса разработки и имею большое желание развиваться в команде в качестве андроид-разработчика. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Навыки ###
+• Базовые принципы ООП
+
+• Kotlin 
+
+• Создание приложений в Android Studio: 
+
+- MVC
+- Single activity
+- Activity и Fragment lifecycle 
+- Fragments, callbacks
+- RecyclerView
+- ViewModel
+- Room
+- Constraint layout
+
+• Git 
