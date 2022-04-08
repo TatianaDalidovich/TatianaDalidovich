@@ -1,26 +1,7 @@
 # Далидович Татьяна #
 
-## junior android developer ##
+## junior QA engineer ##
 
 
-### Навыки ###
-• ООП
-
-• Kotlin 
-
-• Создание приложений в Android Studio: 
-
-- MVC, MVVM
-- Single activity
-- Activity и Fragment Lifecycles 
-- Fragments, callbacks
-- RecyclerView
-- ViewModel
-- Room
-- ConstraintLayout, GridLayout, LinearLayout
-
-• Git 
-
-Английский - B1 
 
 
