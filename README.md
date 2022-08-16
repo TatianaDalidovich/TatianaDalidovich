@@ -1,6 +1,6 @@
 # Далидович Татьяна #
 
-## junior QA engineer ##
+## data analyst ##
 
 
 
